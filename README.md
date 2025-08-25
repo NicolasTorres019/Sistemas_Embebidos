@@ -1,2 +1,4 @@
 # Sistemas_Embebidos
-Curso sistemas embebidos.
+##Roboto recoge basura:
+*     Brazo en madera
+*     Motores

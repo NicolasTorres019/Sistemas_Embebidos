@@ -1,5 +1,5 @@
 # Sistemas_Embebidos 
-Nicolás Torres Muñoz - 20201005046, Oscar Poblador 202
+Nicolás Torres Muñoz - 20201005046, Oscar Poblador Parra -  20211005116 
 ## Roboto recoge basura
 ### Introducción
 El presente proyecto consiste en el diseño y desarrollo de un carrito recolector de basura autónomo con enfoque IoT, utilizando microcontroladores como la Raspberry Pi Pico 2 W y el ESP32-CAM. Su objetivo principal es simular un sistema de recolección inteligente capaz de identificar, recoger, clasificar y transportar residuos, representados en este caso por LEDs de distintos colores, hacia puntos de acopio designados. El proyecto se plantea en dos etapas: en la primera, el carrito funciona de manera independiente, empleando sensores, procesamiento de imágenes y un electroimán para realizar la separación y apilado de los objetos; en la segunda, se busca implementar la colaboración entre dos carritos, los cuales podrán comunicarse entre sí y coordinarse para manipular objetos de mayor volumen mediante cajones motorizados. De esta manera, se integra la robótica móvil con tecnologías IoT, proponiendo una solución innovadora y didáctica que combina autonomía, clasificación inteligente y trabajo colaborativo.

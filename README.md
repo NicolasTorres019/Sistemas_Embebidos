@@ -24,20 +24,21 @@ Diseñar y desarrollar un prototipo de carrito recolector de basura autónomo co
 5.Diseñar e implementar el mecanismo de acople y coordinación con otro carrito, mediante comunicación inalámbrica y sincronización de movimientos, para permitir la manipulación colaborativa de objetos de mayor tamaño.
 
 ### Materiales:
-*     2 Motores DC
-*     1 Puente H L298N
-*     3 Servomotores
-*     2 Llantas de caucho
-*     ESP32 Cam
-*     Raspberry Pi Pico W
-*     Tornillos
-*     Me Arm
-*     Rueda Loca
-*     Control remoto IR  TX,RX
-*     Sensor de proximidad
-*     Electroimán
-*     2 Imánes
-*     Pilas 18650
+*     2 Motores DC                $ 12.000
+*     1 Puente H L298N            $  9.800
+*     3 Servomotores              $ 50.300
+*     2 Llantas de caucho         $ 11.000
+*     ESP32 Cam                   $ 42.000
+*     Raspberry Pi Pico W         $ 40.000
+*     Tornillos                   $ 10.000
+*     Me Arm                      $ 40.000
+*     Rueda Loca                  $  5.500
+*     Control remoto IR  TX,RX    $  6.500
+*     Sensor de proximidad        $  6.000
+*     Electroimán                 $ 25.000
+*     2 Imánes                    $ 10.000
+*     Pilas 18650                 $ 11.000
+*     TOTAL                       $278.800
 
 ### METODOLOGÍA 
 
